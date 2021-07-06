@@ -7,3 +7,4 @@
 - [샐리](sally.md)
 - [김김](kimkim.md)
 - [썬](sun.md)
+- [삭정](sakjung.md)
