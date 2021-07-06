@@ -4,3 +4,5 @@
 
 - [바다](bada.md)
 - [체프](cheffe.md)
+- [샐리](sally.md)
+
