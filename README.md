@@ -6,3 +6,4 @@
 - [체프](cheffe.md)
 - [샐리](sally.md)
 - [김김](kimkim.md)
+- [썬](sun.md)
